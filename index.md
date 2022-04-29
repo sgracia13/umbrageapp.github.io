@@ -3,7 +3,7 @@
 </p>
 
 <div class="row">
-<p align="center"> <img src="aivory.png"> <img src="colton.png"> <img src="sebastian.png"> <img src="uly.png"><img src="daniel.png">
+<p align="center"> <img src="team.png">
  </p>
  </div> 
 
