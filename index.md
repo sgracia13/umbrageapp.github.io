@@ -3,12 +3,7 @@
 </p>
 
 
-<p align="center" width=200>
-  <img src="aivory.png">
-  <img src="colton.png">
-  <img src="sebastian.png">
-  <img src="uly.png">
-  <img src="daniel.png">
+<p align="center" width=200> <img src="aivory.png"> <img src="colton.png"> <img src="sebastian.png"> <img src="uly.png"><img src="daniel.png">
  </p>
 
 
