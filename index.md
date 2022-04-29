@@ -3,7 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="seb.png","aivory.png","daniel.png","colton.png","ulysses.png">
+  <img src="aivory.png">
+  <img src="colton.png">
+  <img src="sebastian.png">
+  <img src="uly.png">
+  <img src="daniel.png">
+  </p>
 
 
 ## We want everyone in the studio to see what we're up to so we thought we'd make an all inclusive page to give you a bird's eye view. Enjoy!
