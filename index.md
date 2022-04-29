@@ -1,6 +1,6 @@
 <p align="center"> 
   <img src="dibs.png">
-</p>\
+</p>
 
 </br>
 
