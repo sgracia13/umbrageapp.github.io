@@ -17,5 +17,3 @@
 
 <button name="button" onclick="https://github.com/Umbrage-Studios/march-cohort-backend">Github Back-End</button>
 [Github Backend](https://github.com/Umbrage-Studios/march-cohort-backend)
-
-
