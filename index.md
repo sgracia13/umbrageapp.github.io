@@ -49,32 +49,18 @@
     <th>April 29th, 2022</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td> 
+    <td>Two days left in sprint one and things are starting to really pick up with the Dibs project. Uly and Colton <br> 
+have been hard at work with implementing the login functionality. The look of the login page and authentication <br>
+flow is simple and easy to follow and has been coming together with very few hiccups. Daniel and Aivory have really <br>
+stretched their design abilities and knocked it out of the park when it came to the design of the login page UI and <br>
+contributed a massive amount to the authentication app flow. The devs are well on their way to completing all planned <br>
+user stories and tasks. Below is a burndown chart that shows just how well Colton and Uly have been pacing themselves <br>
+through this sprint. The grey line indicates the ideal pace or completion rate compared to outstanding work still left <br>
+to complete. We plan to have a demo of what we have completed thus far on Tuesday of next week 5/2/2022. Everyone is <br>
+welcome to join to check out what we accomplished for our first sprint!</td> 
   </tr>
 </table>
  
 
 </details>
-  
-  
-  
-
-<details><summary>Dev</summary>
-<p>
-
-#### Stuff for Dev
-
-
-</p>
-</details>
-  
-
-  
-<details><summary>Design</summary>
-<p>
-
-#### Stuff for Design
-
-</p>
-</details>  
   
