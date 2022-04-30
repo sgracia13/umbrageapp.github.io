@@ -25,9 +25,9 @@
 ![0%](https://progress-bar.dev/0/?title=Sprint_3_Completed )
 
 ## HIGHLIGHTS
-- Finalized Sprint 2 backlog planning with Sprint 3 almost completed :boom:
-- Aivory and Daniel (Design) have validated all designs necessary for MVP (WOOOHOOO!) :fire: :fire:
-- Uly and Colton (Devs) are finalizing login functionality :punch: :punch:
+### - Finalized Sprint 2 backlog planning with Sprint 3 almost completed  <span style='font-size:100px;'>&#128074;</span>
+### - Aivory and Daniel (Design) have validated all designs necessary for MVP (WOOOHOOO!)  <span style='font-size:100px;'>&#128074;</span>
+### - Uly and Colton (Devs) are finalizing login functionality   <span style='font-size:100px;'>&#128074;</span>
 
 
 
