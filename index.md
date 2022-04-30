@@ -10,10 +10,10 @@
  </div> 
 
 
-<img src="sketch.png"> [Sketch Cloud](https://www.sketch.com/s/29b12cf5-0b5d-4af9-aaa9-eb4a1d4fae0e)
+<img src="sketch.png" width="200"> [Sketch Cloud](https://www.sketch.com/s/29b12cf5-0b5d-4af9-aaa9-eb4a1d4fae0e)
 
 
-<img src="github.png"> [Github Frontend](https://github.com/Umbrage-Studios/march-cohort-frontend)
+<img src="github.png" width="200"> [Github Frontend](https://github.com/Umbrage-Studios/march-cohort-frontend)
 
 
-<img src="github.png"> [Github Backend](https://github.com/Umbrage-Studios/march-cohort-backend)
+<img src="github.png" width="200"> [Github Backend](https://github.com/Umbrage-Studios/march-cohort-backend)
