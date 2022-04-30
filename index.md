@@ -39,9 +39,9 @@ show up as an event in google calendar.
 
 <details><summary>CURRENT HIGHLIGHTS </summary>
 
-- Finalized Sprint 2 backlog planning with Sprint 3 almost completed  <span style='font-size:50px;'>&#128074;</span>
-- Aivory and Daniel (Design) have validated all designs necessary for MVP (WOOOHOOO!)  <span style='font-size:50px;'>&#128074;</span>
-- Uly and Colton (Devs) are finalizing login functionality   <span style='font-size:50px;'>&#128074;</span>
+- Finalized Sprint 2 backlog planning with Sprint 3 almost completed  <span style='font-size:50px;'>&#128074;</span> <br>
+- Aivory and Daniel (Design) have validated all designs necessary for MVP (WOOOHOOO!)  <span style='font-size:50px;'>&#128074;</span> <br>
+- Uly and Colton (Devs) are finalizing login functionality   <span style='font-size:50px;'>&#128074;</span> <br>
 
 </details>  
   
@@ -52,11 +52,11 @@ show up as an event in google calendar.
 
 
 
- - <mark> Sprint Demo 5/3/2022 @ 2pm </mark>
+ - <mark> Sprint Demo 5/3/2022 @ 2pm </mark> <br>
 
- - <mark> Sprint Retro 5/3/2022 @ 2:30pm </mark> 
+ - <mark> Sprint Retro 5/3/2022 @ 2:30pm </mark> <br>
 
- - <mark> Start of Sprint 2 5/4/2022 </mark>
+ - <mark> Start of Sprint 2 5/4/2022 </mark> <br>
 
 
 </details>
