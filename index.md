@@ -42,8 +42,16 @@
 
 <details><summary>Updates</summary>
   
-
-  <a href="april29.html">4/29/22</a>
+  
+  
+  <table style="width:100%">
+  <tr>
+    <th>April 29th, 2022</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td> 
+  </tr>
+</table>
  
 
 </details>
