@@ -14,3 +14,4 @@
 <img src="github.png" width="50"> [Github Frontend](https://github.com/Umbrage-Studios/march-cohort-frontend)
 <img src="github.png" width="50"> [Github Backend](https://github.com/Umbrage-Studios/march-cohort-backend)
 <img src="jira.png" width="50"> [Jira Sprint Board](https://umbrage.atlassian.net/jira/software/projects/DIBS/boards/36)
+<img src="miro.png" width="50"> [Miro Board/Meeting Notes](https://miro.com/app/board/uXjVO8nKJnI=/)
