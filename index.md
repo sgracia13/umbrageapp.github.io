@@ -40,7 +40,7 @@
 
 
 <details><summary>Updates</summary>
-<p>
+
   
 
 | Friday April 29th,2022  | 
@@ -49,7 +49,6 @@
 
    
 
-</p>
 </details>
   
   
