@@ -9,12 +9,12 @@
  </p>
  </div> 
 
-<div class="row">
-<img src="sketch.png" width="200"> [Sketch Cloud](https://www.sketch.com/s/29b12cf5-0b5d-4af9-aaa9-eb4a1d4fae0e)
+
+<img src="sketch.png" width="100"> [Sketch Cloud](https://www.sketch.com/s/29b12cf5-0b5d-4af9-aaa9-eb4a1d4fae0e)
 
 
-<img src="github.png" width="200"> [Github Frontend](https://github.com/Umbrage-Studios/march-cohort-frontend)
+<img src="github.png" width="100"> [Github Frontend](https://github.com/Umbrage-Studios/march-cohort-frontend)
 
 
-<img src="github.png" width="200"> [Github Backend](https://github.com/Umbrage-Studios/march-cohort-backend)
-</div>
+<img src="github.png" width="100"> [Github Backend](https://github.com/Umbrage-Studios/march-cohort-backend)
+
