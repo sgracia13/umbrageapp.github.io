@@ -15,16 +15,25 @@
  
 # We wanted everyone in the studio to see what we're up to so we thought we'd make an all inclusive page to give you a bird's eye view. Enjoy!
 
-<h1> UPCOMING EVENTS </h1>
-- Sprint Demo 5/3/2022
 
-- Sprint Retro 5/3/2022
-
-
-- Start of Sprint 2 5/4/2022
-
-
+<p align="center">
+  
+  
 ![80%](https://progress-bar.dev/80/?title=Sprint_Completed )
+  
+| UPCOMING EVENTS            |
+| --- |
+
+
+ - <mark> Sprint Demo 5/3/2022 </mark>
+
+ - <mark> Sprint Retro 5/3/2022 </mark> 
+
+ - <mark> Start of Sprint 2 5/4/2022 </mark>
+
+
+
+ </p>
 
 
   
