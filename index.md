@@ -21,8 +21,8 @@
 - Start of Sprint 2 5/4/2022
 
 
+![80%](https://progress-bar.dev/80/?title=Sprint_Completed )
 
-https://progress-bar.dev/80/?title=Sprint_Completed 
 
   
 
