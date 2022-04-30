@@ -9,11 +9,11 @@
  </p>
  </div> 
 
-<button name="button" onclick="https://www.sketch.com/s/29b12cf5-0b5d-4af9-aaa9-eb4a1d4fae0e">Sketch</button>
+[Sketch Cloud](https://www.sketch.com/s/29b12cf5-0b5d-4af9-aaa9-eb4a1d4fae0e){: .btn}
 [Sketch Cloud](https://www.sketch.com/s/29b12cf5-0b5d-4af9-aaa9-eb4a1d4fae0e)
 
-<button name="button" onclick="https://github.com/Umbrage-Studios/march-cohort-frontend">Github Front-End</button>
+[GithHub Frontend](https://github.com/Umbrage-Studios/march-cohort-frontend){: .btn}
 [Github Frontend](https://github.com/Umbrage-Studios/march-cohort-frontend)
 
-<button name="button" onclick="https://github.com/Umbrage-Studios/march-cohort-backend">Github Back-End</button>
+[GitHub Backend](https://github.com/Umbrage-Studios/march-cohort-backend){: .btn}
 [Github Backend](https://github.com/Umbrage-Studios/march-cohort-backend)
