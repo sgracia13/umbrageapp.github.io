@@ -21,7 +21,7 @@
   
 ![80%](https://progress-bar.dev/80/?title=Sprint_Completed )
   
-| UPCOMING EVENTS            |
+| UPCOMING EVENTS |
 | --- |
 
 
