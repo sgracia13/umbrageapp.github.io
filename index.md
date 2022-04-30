@@ -21,8 +21,8 @@
   
   
 ![80%](https://progress-bar.dev/80/?title=Sprint_1_Completed )
-![0%](https://progress-bar.dev/80/?title=Sprint_2_Completed )  
-![00%](https://progress-bar.dev/80/?title=Sprint_3_Completed )
+![0%](https://progress-bar.dev/0/?title=Sprint_2_Completed )  
+![0%](https://progress-bar.dev/0/?title=Sprint_3_Completed )
 ## UPCOMING EVENTS 
 
 
