@@ -9,11 +9,11 @@
  </p>
  </div> 
 
-[Sketch Cloud](https://www.sketch.com/s/29b12cf5-0b5d-4af9-aaa9-eb4a1d4fae0e){: .btn}
-[Sketch Cloud](https://www.sketch.com/s/29b12cf5-0b5d-4af9-aaa9-eb4a1d4fae0e)
 
-[GithHub Frontend](https://github.com/Umbrage-Studios/march-cohort-frontend){: .btn}
-[Github Frontend](https://github.com/Umbrage-Studios/march-cohort-frontend)
+<img src="sketch.png"> [Sketch Cloud](https://www.sketch.com/s/29b12cf5-0b5d-4af9-aaa9-eb4a1d4fae0e)
 
-[GitHub Backend](https://github.com/Umbrage-Studios/march-cohort-backend){: .btn}
-[Github Backend](https://github.com/Umbrage-Studios/march-cohort-backend)
+
+<img src="github.png"> [Github Frontend](https://github.com/Umbrage-Studios/march-cohort-frontend)
+
+
+<img src="github.png"> [Github Backend](https://github.com/Umbrage-Studios/march-cohort-backend)
