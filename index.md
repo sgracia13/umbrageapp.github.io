@@ -18,21 +18,37 @@
 
 
 
-  
-  
 ![80%](https://progress-bar.dev/80/?title=Sprint_1_Completed )
 ![0%](https://progress-bar.dev/0/?title=Sprint_2_Completed )  
 ![0%](https://progress-bar.dev/0/?title=Sprint_3_Completed )
 
-## HIGHLIGHTS
-#### - Finalized Sprint 2 backlog planning with Sprint 3 almost completed  <span style='font-size:50px;'>&#128074;</span>
-#### - Aivory and Daniel (Design) have validated all designs necessary for MVP (WOOOHOOO!)  <span style='font-size:50px;'>&#128074;</span>
-#### - Uly and Colton (Devs) are finalizing login functionality   <span style='font-size:50px;'>&#128074;</span>
+
+<details><summary>WHAT IS DIBS?!</summary>
+Umbrage as a studio will be moving into a new office space as most of you know already. <br>
+One of the issues that has constantly been a pain point in the current space has been <br>
+scheduling time to utilize conference rooms and conflicts around planning for room usage. <br>
+As a group, we have been tasked with coming up with a solution to figuring out how to best <br>
+address this issue. More specifically, we are building out a software solution that will <br>
+give a user the ability to book a time slot for one of four rooms in the new upstairs space. <br>
+Dibs, the name of the software we have started to build, will integrate easily with google <br>
+calendar and give a user the ability to book a room in the Dibs application and have it <br>
+show up as an event in google calendar.
+</details>  
 
 <br>
+
+<details><summary>CURRENT HIGHLIGHTS </summary>
+
+- Finalized Sprint 2 backlog planning with Sprint 3 almost completed  <span style='font-size:50px;'>&#128074;</span>
+- Aivory and Daniel (Design) have validated all designs necessary for MVP (WOOOHOOO!)  <span style='font-size:50px;'>&#128074;</span>
+- Uly and Colton (Devs) are finalizing login functionality   <span style='font-size:50px;'>&#128074;</span>
+
+</details>  
+  
 <br>
 
-## UPCOMING EVENTS 
+
+<details><summary>CURRENT UPCOMING EVENTS </summary>
 
 
 
@@ -43,14 +59,13 @@
  - <mark> Start of Sprint 2 5/4/2022 </mark>
 
 
+</details>
 
 <br>
-<br>
 
-  
+ 
 
-
-<details><summary>Updates</summary>
+<details><summary>UPDATES</summary>
   
   
   
