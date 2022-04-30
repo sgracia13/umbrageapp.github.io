@@ -17,7 +17,10 @@
 
 <h1> UPCOMING EVENTS </h1>
 - Sprint Demo 5/3/2022
+
 - Sprint Retro 5/3/2022
+
+
 - Start of Sprint 2 5/4/2022
 
 
