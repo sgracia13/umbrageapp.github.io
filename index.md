@@ -14,6 +14,46 @@
  </div> 
  
 # We wanted everyone in the studio to see what we're up to so we thought we'd make an all inclusive page to give you a bird's eye view. Enjoy!
+
+https://progress-bar.dev/<thepercentage>?=<title>
+  
+
+
+<details><summary>Updates</summary>
+<p>
+
+| Friday April 29th,2022  | 
+| --- |
+| Two days left in sprint one and things are starting to really pick up with the Dibs project. Uly and Colton have been hard at work with implementing the login functionality. The look of the login page and authentication flow is simple and easy to follow and has been coming together with very few hiccups. Daniel and Aivory have really stretched their design abilities and knocked it out of the park when it came to the design of the login page UI and contributed a massive amount to the authentication app flow. The devs are well on their way to completing all planned user stories and tasks. We plan to have a demo of what we have completed on Tuesday of next week 5/2/2022. Everyone is welcome to join to check out what we accomplished for this first sprint! | 
+
+   
+
+</p>
+</details>
+  
+  
+  
+
+<details><summary>Dev</summary>
+<p>
+
+#### We can hide anything, even code!
+
+
+</p>
+</details>
+  
+
+  
+<details><summary>Design</summary>
+<p>
+
+#### We can hide anything, even code!
+
+</p>
+</details>  
+  
+  
   
 | Friday April 29th,2022  | 
 | --- |
