@@ -24,7 +24,7 @@
 
 
 <details><summary>WHAT IS DIBS?!</summary>
-Umbrage as a studio will be moving into a new office space as most of you know already. <br>
+<b>Umbrage as a studio will be moving into a new office space as most of you know already. <br>
 One of the issues that has constantly been a pain point in the current space has been <br>
 scheduling time to utilize conference rooms and conflicts around planning for room usage. <br>
 As a group, we have been tasked with coming up with a solution to figuring out how to best <br>
@@ -32,16 +32,16 @@ address this issue. More specifically, we are building out a software solution t
 give a user the ability to book a time slot for one of four rooms in the new upstairs space. <br>
 Dibs, the name of the software we have started to build, will integrate easily with google <br>
 calendar and give a user the ability to book a room in the Dibs application and have it <br>
-show up as an event in google calendar.
+  show up as an event in google calendar. </b>
 </details>  
 
 <br>
 
 <details><summary>CURRENT HIGHLIGHTS </summary>
 
-- Finalized Sprint 2 backlog planning with Sprint 3 almost completed  <span style='font-size:50px;'>&#128074;</span> <br>
-- Aivory and Daniel (Design) have validated all designs necessary for MVP (WOOOHOOO!)  <span style='font-size:50px;'>&#128074;</span> <br>
-- Uly and Colton (Devs) are finalizing login functionality   <span style='font-size:50px;'>&#128074;</span> <br>
+  - <b> Finalized Sprint 2 backlog planning with Sprint 3 almost completed </b>  <span style='font-size:25px;'>&#128074;</span> <br>
+  - <b> Aivory and Daniel (Design) have validated all designs necessary for MVP (WOOOHOOO!) </b> <span style='font-size:25px;'>&#128074;</span> <br>
+  - <b> Uly and Colton (Devs) are finalizing login functionality </b>   <span style='font-size:25px;'>&#128074;</span> <br>
 
 </details>  
   
@@ -52,11 +52,11 @@ show up as an event in google calendar.
 
 
 
- - <mark> Sprint Demo 5/3/2022 @ 2pm </mark> <br>
+ -  <b> Sprint Demo 5/3/2022 @ 2pm </b> 
 
- - <mark> Sprint Retro 5/3/2022 @ 2:30pm </mark> <br>
+ -  <b> Sprint Retro 5/3/2022 @ 2:30pm </b> 
 
- - <mark> Start of Sprint 2 5/4/2022 </mark> <br>
+ - <b> Start of Sprint 2 5/4/2022 </b> 
 
 
 </details>
