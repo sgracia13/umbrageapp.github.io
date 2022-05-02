@@ -82,7 +82,10 @@ contributed a massive amount to the authentication app flow. The devs are well o
 user stories and tasks. Below is a burndown chart that shows just how well Colton and Uly have been pacing themselves <br>
 through this sprint. The grey line indicates the ideal pace or completion rate compared to outstanding work still left <br>
 to complete. We plan to have a demo of what we have completed thus far on Tuesday of next week 5/2/2022. Everyone is <br>
-welcome to join to check out what we accomplished for our first sprint!</td> 
+welcome to join to check out what we accomplished for our first sprint! <br>
+      <br>
+    <img src="burndown.png" alt="Burndown">
+    </td> 
   </tr>
 </table>
  
