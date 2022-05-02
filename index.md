@@ -52,11 +52,11 @@ calendar and give a user the ability to book a room in the Dibs application and 
 
 
 
- -  <b> Sprint Demo 5/3/2022 @ 2pm </b> 
+ -  <b> Sprint Demo 5/3/2022 @ 2pm </b> <br>
 
- -  <b> Sprint Retro 5/3/2022 @ 2:30pm </b> 
+ -  <b> Sprint Retro 5/3/2022 @ 2:30pm </b> <br>
 
- - <b> Start of Sprint 2 5/4/2022 </b> 
+ - <b> Start of Sprint 2 5/4/2022 </b> <br>
 
 
 </details>
