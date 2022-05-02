@@ -23,7 +23,7 @@
 ![0%](https://progress-bar.dev/0/?title=Sprint_3_Completed )
 
 
-<details><summary><h1>WHAT IS DIBS?! </h1></summary>
+<details><summary><h3>WHAT IS DIBS?! </h3></summary>
 <b>Umbrage as a studio will be moving into a new office space as most of you know already. <br>
 One of the issues that has constantly been a pain point in the current space has been <br>
 scheduling time to utilize conference rooms and conflicts around planning for room usage. <br>
@@ -37,7 +37,7 @@ calendar and give a user the ability to book a room in the Dibs application and 
 
 <br>
 
-<details><summary><h1>CURRENT HIGHLIGHTS </h1></summary>
+<details><summary><h3>CURRENT HIGHLIGHTS </h3></summary>
 
   - <b> Finalized Sprint 2 backlog planning with Sprint 3 almost completed </b>  <span style='font-size:25px;'>&#128074;</span> <br>
   - <b> Aivory and Daniel (Design) have validated all designs necessary for MVP (WOOOHOOO!) </b> <span style='font-size:25px;'>&#128074;</span> <br>
@@ -48,7 +48,7 @@ calendar and give a user the ability to book a room in the Dibs application and 
 <br>
 
 
-<details><summary><h1>CURRENT UPCOMING EVENTS </h1> </summary>
+<details><summary><h3>CURRENT UPCOMING EVENTS </h3> </summary>
 
 
 
@@ -65,7 +65,7 @@ calendar and give a user the ability to book a room in the Dibs application and 
 
  
 
-<details>  <summary><h1>UPDATES</h1></summary>
+<details>  <summary><h3>UPDATES</h3></summary>
   
   
   
