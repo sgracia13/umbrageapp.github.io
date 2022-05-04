@@ -35,15 +35,6 @@ calendar and give a user the ability to book a room in the Dibs application and 
   show up as an event in google calendar. </b>
 </details>  
 
-<br>
-
-<details><summary>CURRENT HIGHLIGHTS </summary>
-
-  - <b> Finalized Sprint 2 backlog planning with Sprint 3 almost completed </b>  <span style='font-size:25px;'>&#128074;</span> <br>
-  - <b> Aivory and Daniel (Design) have validated all designs necessary for MVP (WOOOHOOO!) </b> <span style='font-size:25px;'>&#128074;</span> <br>
-  - <b> Uly and Colton (Devs) are finalizing login functionality </b>   <span style='font-size:25px;'>&#128074;</span> <br>
-
-</details>  
   
 <br>
 
@@ -51,12 +42,9 @@ calendar and give a user the ability to book a room in the Dibs application and 
 <details><summary>CURRENT UPCOMING EVENTS</summary>
 
 
-
- -  <b> Sprint Demo 5/3/2022 @ 2pm </b> <br>
-
- -  <b> Sprint Retro 5/3/2022 @ 2:30pm </b> <br>
-
- - <b> Start of Sprint 2 5/4/2022 </b> <br>
+-  <b> Dev/Design Sync Up 5/6/2022 @ 9:15am </b> <br>
+  
+-  <b> Backlog Refinement 5/9/2022 @ 2pm </b> <br>
 
 
 </details>
@@ -70,6 +58,33 @@ calendar and give a user the ability to book a room in the Dibs application and 
   
   
   <table style="width:100%">
+   <tr>
+    <th>May 4th, 2022</th>
+  </tr>
+  <tr>
+    <td>Sprint one has come to a close and was an overall success. The sprint Demo yesterday received positive <br>
+      feedback and was well recepted. Today, we went through our first formal sprint planning as a team with <br>
+      the common goal of making sure that the work items in Sprint two were going to be manageable to complete. <br>
+      Looking at what was carried over from sprint one (only two work items that are planning to be completed <br>
+      today) it seems that the devs are well on their way to being successful and productive for Sprint two. <br>
+      Yesterday, we also got the opportunity to sit down and have a retro for sprint one where we reflected <br>
+      on things we could definitely improve on and would strengthen our relationship as a team for sprint two. <br>
+      One takeaway was that more time was needed to be put on the calendar for the developers and design team <br>
+      to sync up and ask open ended questions throughout the implementation and development process. Using <br>
+      the retro to align on new initiatives was really eye-opening and we quickly saw that as a team, we <br>
+      share many of the same opinions and concerns. Below is a screen shot from our miro board and two <br>
+      recurring themes that came up in our retro exercise. We look forward to successful kick-off to <br>
+      sprint two. 
+      <br>
+    <img src="retro.png" alt="Retro">
+    </td> 
+  </tr>
+    
+    
+    
+  <br>  
+  <br>
+    
   <tr>
     <th>April 29th, 2022</th>
   </tr>
