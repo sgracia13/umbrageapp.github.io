@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="dibs.png">
+  <img src="images/dibs.png">
 </p>
 
 
@@ -103,6 +103,6 @@ welcome to join to check out what we accomplished for our first sprint! <br>
     </td>
   </tr>
 </table>
- 
+
 
 </details>
