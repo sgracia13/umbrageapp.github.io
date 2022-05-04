@@ -1,19 +1,19 @@
-<p align="center"> 
+<p align="center">
   <img src="dibs.png">
 </p>
 
 
-<img src="sketch.png" width="50"> [Sketch Cloud](https://www.sketch.com/s/29b12cf5-0b5d-4af9-aaa9-eb4a1d4fae0e)
-<img src="github.png" width="50"> [Github Frontend](https://github.com/Umbrage-Studios/march-cohort-frontend)
-<img src="github.png" width="50"> [Github Backend](https://github.com/Umbrage-Studios/march-cohort-backend)
-<img src="jira.png" width="50"> [Jira Sprint Board](https://umbrage.atlassian.net/jira/software/projects/DIBS/boards/36)
-<img src="miro.png" width="50"> [Miro Board/Meeting Notes](https://miro.com/app/board/uXjVO8nKJnI=/)
+<img src="/images/sketch.png" width="50"> [Sketch Cloud](https://www.sketch.com/s/29b12cf5-0b5d-4af9-aaa9-eb4a1d4fae0e)
+<img src="/images/github.png" width="50"> [Github Frontend](https://github.com/Umbrage-Studios/march-cohort-frontend)
+<img src="images/github.png" width="50"> [Github Backend](https://github.com/Umbrage-Studios/march-cohort-backend)
+<img src="images/jira.png" width="50"> [Jira Sprint Board](https://umbrage.atlassian.net/jira/software/projects/DIBS/boards/36)
+<img src="images/miro.png" width="50"> [Miro Board/Meeting Notes](https://miro.com/app/board/uXjVO8nKJnI=/)
 
 <div class="row">
-<p align="center"> <img src="team.png">
+<p align="center"> <img src="images/team.png">
  </p>
- </div> 
- 
+ </div>
+
 # We wanted everyone in the studio to see what we're up to so we thought we'd make an all inclusive page to give you a bird's eye view. Enjoy!
 
 
@@ -35,7 +35,7 @@ calendar and give a user the ability to book a room in the Dibs application and 
   show up as an event in google calendar. </b>
 </details>  
 
-  
+
 <br>
 
 
@@ -43,7 +43,7 @@ calendar and give a user the ability to book a room in the Dibs application and 
 
 
 -  <b> Dev/Design Sync Up 5/6/2022 @ 9:15am </b> <br>
-  
+
 -  <b> Backlog Refinement 5/9/2022 @ 2pm </b> <br>
 
 
@@ -51,12 +51,12 @@ calendar and give a user the ability to book a room in the Dibs application and 
 
 <br>
 
- 
+
 
 <details>  <summary>UPDATES</summary>
-  
-  
-  
+
+
+
   <table style="width:100%">
    <tr>
     <th>May 4th, 2022</th>
@@ -74,22 +74,22 @@ calendar and give a user the ability to book a room in the Dibs application and 
       the retro to align on new initiatives was really eye-opening and we quickly saw that as a team, we <br>
       share many of the same opinions and concerns. Below is a screen shot from our miro board and two <br>
       recurring themes that came up in our retro exercise. We look forward to successful kick-off to <br>
-      sprint two. 
+      sprint two.
       <br>
-    <img src="retro.png" alt="Retro">
-    </td> 
+    <img src="images/retro.png" alt="Retro">
+    </td>
   </tr>
-    
-    
-    
+
+
+
   <br>  
   <br>
-    
+
   <tr>
     <th>April 29th, 2022</th>
   </tr>
   <tr>
-    <td>Two days left in sprint one and things are starting to really pick up with the Dibs project. Uly and Colton <br> 
+    <td>Two days left in sprint one and things are starting to really pick up with the Dibs project. Uly and Colton <br>
 have been hard at work with implementing the login functionality. The look of the login page and authentication <br>
 flow is simple and easy to follow and has been coming together with very few hiccups. Daniel and Aivory have really <br>
 stretched their design abilities and knocked it out of the park when it came to the design of the login page UI and <br>
@@ -99,12 +99,10 @@ through this sprint. The grey line indicates the ideal pace or completion rate c
 to complete. We plan to have a demo of what we have completed thus far on Tuesday of next week 5/3/2022. Everyone is <br>
 welcome to join to check out what we accomplished for our first sprint! <br>
       <br>
-    <img src="burndown.png" alt="Burndown">
-    </td> 
+    <img src="images/burndown.png" alt="Burndown">
+    </td>
   </tr>
 </table>
  
 
 </details>
- 
-  
