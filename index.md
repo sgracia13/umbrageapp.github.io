@@ -18,8 +18,8 @@
 
 
 
-![80%](https://progress-bar.dev/80/?title=Sprint_1_Completed )
-![0%](https://progress-bar.dev/0/?title=Sprint_2_Completed )  
+![80%](https://progress-bar.dev/100/?title=Sprint_1_Completed )
+![60%](https://progress-bar.dev/60/?title=Sprint_2_Completed )  
 ![0%](https://progress-bar.dev/0/?title=Sprint_3_Completed )
 
 
