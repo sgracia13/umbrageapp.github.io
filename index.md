@@ -42,9 +42,11 @@ calendar and give a user the ability to book a room in the Dibs application and 
 <details><summary>CURRENT UPCOMING EVENTS</summary>
 
 
--  <b> Dev/Design Sync Up 5/6/2022 @ 9:15am </b> <br>
+-  <b> Backlog Refinement/Grooming 5/16/2022 @ 11:00am </b> <br>
 
--  <b> Backlog Refinement 5/9/2022 @ 2pm </b> <br>
+-  <b> Sprint Demo 5/17/2022 @ 2pm </b> <br>
+
+-  <b> Sprint Retro 5/17/2022 @ 2:15pm </b> <br>
 
 
 </details>
