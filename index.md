@@ -18,8 +18,8 @@
 
 
 
-![80%](https://progress-bar.dev/100/?title=Sprint_1_Completed )
-![60%](https://progress-bar.dev/60/?title=Sprint_2_Completed )  
+![100%](https://progress-bar.dev/100/?title=Sprint_1_Completed )
+![90%](https://progress-bar.dev/90/?title=Sprint_2_Completed )  
 ![0%](https://progress-bar.dev/0/?title=Sprint_3_Completed )
 
 
@@ -41,13 +41,12 @@ calendar and give a user the ability to book a room in the Dibs application and 
 
 <details><summary>CURRENT UPCOMING EVENTS</summary>
 
-
--  <b> Backlog Refinement/Grooming 5/16/2022 @ 11:00am </b> <br>
-
 -  <b> Sprint Demo 5/17/2022 @ 2pm </b> <br>
 
 -  <b> Sprint Retro 5/17/2022 @ 2:15pm </b> <br>
-
+  
+-  <b> Start of Sprint 3 5/18/2022  </b> <br>
+  
 
 </details>
 
